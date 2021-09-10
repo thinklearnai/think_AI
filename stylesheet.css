@@ -64,9 +64,13 @@ ul li:nth-child(3) a:hover .fab {
 }
 
 ul li:nth-child(4) a:hover .fab {
-  color: #21e563;
+  color: #188cdc;
 }
 
 ul li:nth-child(5) a:hover .fab {
+  color: #21e563;
+}
+
+ul li:nth-child(6) a:hover .fab {
   color: #e4405f;
 }#5851DB
